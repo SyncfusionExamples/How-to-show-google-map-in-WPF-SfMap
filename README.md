@@ -30,6 +30,8 @@ You can show the Google Maps by overriding the Imagery layer as given in the bel
     } 
 ```
 
+KB article - [How-to-show-google-map-in-WPF-SfMap](https://www.syncfusion.com/kb/11928/how-to-show-google-map-in-wpf-map-sfmap)
+
 ## See also
 
 [How to view bing map using WPF SfMap](https://www.syncfusion.com/kb/10799/how-to-view-bing-map-using-wpf-map-control-sfmap)
